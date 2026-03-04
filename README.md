@@ -1,5 +1,5 @@
 # Сборка  
-> gcc -DDEBUG -Wall -g main.c bin_tree.c -o res
+> gcc -DDEBUG -Wall -g main.c bin_tree.c -o res  
 > ./res
 # Использование
 Вводите целые числа, добавля их в двоичное дерево.  
